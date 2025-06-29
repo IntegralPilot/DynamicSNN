@@ -1,0 +1,1 @@
+curl -L https://github.com/nlohmann/json/releases/download/v3.12.0/json.hpp -o json.hpp
