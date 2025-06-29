@@ -22,7 +22,7 @@ This multi-faceted approach is demonstrated in a challenging "Go/No-Go" task rev
 
 The simulation generates a detailed log file that can be visualized with the provided Python script. The dashboard below showcases the network's performance, synaptic weight changes, structural modifications (pruning/sprouting), and neuronal adaptation throughout the experiment.
 
-![Simulation Dashboard](simulation_dashboard.mp4)
+![Simulation Dashboard](simulation_dashboard.png)
 
 In the dashboard, you can observe how the network:
 1.  **Learns the initial task:** It grows connections from "Pattern A" neurons (sprouting), strengthens them (LTP), and simultaneously weakens and removes connections from "Pattern B" neurons (LTD & pruning).
